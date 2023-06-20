@@ -3,10 +3,9 @@ The most complete GTA Advance mod!
 
 In 2018 i decided to start a project to modify or to simply try to modify GTA Advance by hexadecimal codes.
 
-After a successfully effort to change the color of Mike, i felt more confident of what i should make with the versions of the game.
-From that, i invited my friend Brayam to help me putting things in order and here we are...
+After successfully changing the character Mike from gta advance, my friend Vinicius invited me to help him in the project with the graphic part...
 
-<strong>FOLLOW BRAYAM IN GITHUB:</strong> https://github.com/brayambarros
+<strong>FOLLOW VINICIUS IN GITHUB:</strong> https://github.com/ViniciusLeiteCosta
                                       
 ALL VERSIONS INCLUDED!
 
