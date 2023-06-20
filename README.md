@@ -4,7 +4,9 @@ The most complete GTA Advance mod!
 In 2018 i decided to start a project to modify or to simply try to modify GTA Advance by hexadecimal codes.
 
 After a successfully effort to change the color of Mike, i felt more confident of what i should make with the versions of the game.
-From that, i invited my friend Cassador Eterno to help me putting things in order and here we are...
+From that, i invited my friend Brayam to help me putting things in order and here we are...
+
+<strong>FOLLOW BRAYAM IN GITHUB:</strong> https://github.com/brayambarros
                                       
 ALL VERSIONS INCLUDED!
 
@@ -68,3 +70,18 @@ Wall from menu:
 
 Wall hex Code: C59000
 
+PROGRAMS USED FOR CREATING THE MOD: 
+
+YY-CHR: https://www.romhacking.net/utilities/119/
+A graphical editor for NES, SNES, Genesis, PCE, GG, WS/C, GB/C, MSX 1+2, NGP/C, SMS, and GBA.
+
+Hex Workshop: http://www.hexworkshop.com
+We used the V6.7!
+
+XVI 32: http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm
+A simple and freeware hexeditor!
+
+Tile Layer Pro: https://www.romhacking.net/utilities/108/
+A old graphic tool but still useful!
+
+THIS MOD WAS CREATED BY BRAYAM CAMPOS AND VINICIUS LEITE, WE HAVE NO CONNECTION WITH ROCKSTAR GAMES OR AFFILIATES...
