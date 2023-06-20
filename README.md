@@ -86,74 +86,88 @@ A old graphic tool but still useful!
 
 MORE PHOTOS: 
 
-![correspondentes](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5fcbb68a-f0d1-4bbb-832e-6c661f188ae9)
+![menucharacter](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/b861792d-906b-47e9-a6bc-861ec1aa6636)
 
-![cassadormenu](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/63af0f3d-5e87-4c5a-bb44-016257b15794)
+![menu1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/5686138c-0104-4c88-bb4f-8871e2e78561)
 
-![brutalonmenu](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/8e5a1aac-d885-4efc-a672-4778f96675e4)
+![mapview1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/23149063-c2fc-45ac-9b39-12d4618f6c25)
 
-![allphotos](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5ae866d2-4b19-42f6-9c81-1f7abbda0fb8)
+![mappingweap](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/e7e6ac90-0a23-41a1-ad1f-a0e5726010cd)
 
-![weinmenu](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/775d3a9e-92cb-48c6-8b2d-8bed3cc5fd01)
+![hudmapping](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/6277daf0-186d-41da-84c0-15049ae6a363)
 
-![weaphud](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/18a1c28c-56b9-49d9-a388-cb48d058992e)
+![hudidea](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/c9028535-e274-4982-abf1-1e7304494fe2)
 
-![weap6](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5adb1517-a144-41b7-a0a9-ed05293d1fbb)
+![hudalmostcomplete](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/d693dc80-f4eb-4b67-92be-b3763d77d94f)
 
-![tlp1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5497f93b-42a7-4c00-a81d-c6c235806dcb)
+![hud1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/f81343d2-080b-4113-8a31-2a81a96562d5)
 
-![pinkmike](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/52e6e984-cf8e-407c-a3eb-d23eae459f3e)
+![hexcode4](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/20921804-d691-45b2-9add-be1131edac6b)
 
-![photo3](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/4e5e41c3-1a08-4ed6-b797-ec8bc8633e25)
+![hexcode3](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/c71dcceb-4ed9-47cd-a261-36f4301d3a50)
 
-![photo2](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/6926c36d-38ef-416b-9ced-f27eacf8a7fb)
+![hexcode1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/e5d537bf-b061-4916-a67a-6ad1369c7dc6)
 
-![photo1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/65c34a09-1b96-432e-b17b-15380c18d8cb)
+![hexcode](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/65bfb211-f111-46d4-b137-fa8ac8ae1222)
 
-![other photos](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/6f989008-3b9d-406a-a14a-56f8092f3621)
+![greenweap](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/569fbf4c-cd2d-418b-9e7d-3bfd1e5c074a)
 
-![newmenu](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/6cd55f22-60da-49ff-96b4-992362b753fc)
+![girl](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/d0f30a4f-cb10-4fc6-b115-32463b9412e0)
 
-![newlogo](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/47f5b765-c601-4948-8c11-5fb74fe0cec4)
+![correspondentes2](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/0179a6de-9dba-47cb-887d-9ef0f8522e5c)
 
-![minimapalmostcomplete](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5787c70e-a666-47d4-8b59-fce4bdb09f4b)
+![correspondentes](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/d0d5a754-61c1-44e1-b6ea-13e340ab2e82)
 
-![minimap1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/912aac86-8a1b-4cf6-8a62-9b3d80a43204)
+![cassadormenu](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/85ac98ac-411f-4f38-be4c-01e22ff5bb6c)
 
-![minimap](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5d04ee08-9d88-4b6a-ad55-be4b82d72b0a)
+![brutalonmenu](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/cece1441-b800-4730-8a86-dceca74fe31b)
 
-![menuedit](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/3af8bdcc-6ea4-4df0-b9ed-b1a57317cfcf)
+![allphotos](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/7ca2cdf9-d276-4f91-a540-59c54f1a4b51)
 
-![menucomplete](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/fd9be505-b9e4-42b2-a443-a1d8d78f2636)
+![weinmenu](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/ecaf919e-260f-4f36-af2d-b14ac1f0626e)
 
-![menucharacter](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/c74c26ba-034a-496d-b2ac-2954998daeb7)
+![Weapons and Mike's Color](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/7c81abb3-a8e6-43f4-9013-1258af29dc21)
 
-![menu1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/e5c1f747-e8c2-431a-a8b5-35e5402458b1)
+![weaphud](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/31c148a4-7c1b-4e59-8ff9-a450f83b6a35)
 
-![mapview1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/08494f5a-359d-42ce-b19b-61f0a0fbd578)
+![weap6](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/3b6c17dc-5c39-452c-92e5-28dc86739343)
 
-![mappingweap](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/614dee1e-ffd0-42fa-a032-223aa4bf890f)
+![weap5](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/ba480bc9-dadd-47ed-91d1-29baa653627f)
 
-![hudmapping](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/d31e8764-859f-48bc-9eea-60b375b29f91)
+![weap4](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/2ca68d32-3675-4a57-a2f7-b761168bfd75)
 
-![hudidea](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/df76b661-de37-45de-82b0-883567d5cc76)
+![weap3](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/964ae134-82ac-4fe7-9a7b-43c35a716356)
 
-![hudalmostcomplete](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/fb723478-747a-41a9-b33b-ad9bdb768da9)
+![weap2](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/dff7d15e-cb2d-4592-b536-7047f641a1c4)
 
-![hud1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/ecf19edd-ebb1-46d2-b65f-f933adcffba7)
+![weap1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/a2a56df7-a5b4-4eed-8dfd-d36839eafe2a)
 
-![hexcode4](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/2e869936-9535-4840-b2bc-ba062e2683af)
+![wall](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/b8faafe5-ee61-4b79-bf06-4eed4e7dc7fa)
 
-![hexcode3](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5d0a33ec-5e64-4099-b964-cda189f99a03)
+![tlp1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/47bcf578-e775-4003-866d-09b6a5db3506)
 
-![hexcode1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/b58a28e5-55cc-4f77-86a5-cfd6b7345c16)
+![pinkmike](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/b2b750b7-c46f-4fcd-9fcf-740253520589)
 
-![hexcode](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/9335a19a-e7a8-4b58-bd97-f6be8e2dad84)
+![photo3](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/1f3d0139-b4b5-4518-93f5-3598a198e71d)
 
-![greenweap](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/d9b775e2-2a7b-4ce7-ad3b-632bc9952de5)
+![photo2](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/6124fa41-a973-4ec9-9b05-6d3c3a99e41e)
 
-![girl](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/05c594dc-9079-4c5b-9fd0-f662d579402d)
+![photo1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/4cf3a926-5b59-422d-8319-dc2ec2c8d6a3)
 
-![correspondentes2](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/e8072c25-cfec-4543-bc87-3ab7a2a5c55b)
+![other photos](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/81f87750-53a1-493b-8e26-defe4d23048b)
+
+![newmenu](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/d9b2d080-92ce-4edd-aaac-35ffe7e89479)
+
+![newlogo](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/be005382-a716-4582-9654-8fad1cd3b076)
+
+![minimapalmostcomplete](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/1ff1cbd6-9565-41bc-b62b-e187df3fc4fa)
+
+![minimap1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/4d1673cb-f8c7-4ad5-964b-3183c539f2f0)
+
+![minimap](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/d82e355e-912d-4217-8c2f-223e31cd1408)
+
+![menuedit](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/329ed39e-9f15-433f-a804-7be4ec6953ba)
+
+![menucomplete](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/83b2cca4-cce4-4b10-b6c4-a5020cc2cd01)
 
 <strong>THIS MOD WAS CREATED BY BRAYAM CAMPOS AND VINICIUS LEITE, WE HAVE NO CONNECTION WITH ROCKSTAR GAMES OR AFFILIATES...</strong>
