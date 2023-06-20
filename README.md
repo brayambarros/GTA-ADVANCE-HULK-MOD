@@ -9,15 +9,25 @@ From that, i invited my friend Cassador Eterno to help me putting things in orde
 ALL VERSIONS INCLUDED!
 
 VERSION | DATE
+
 0.1        11/06/2018
+
 0.5        11/11/2018
+
 0.7        11/30/2018
+
 0.8        01/10/2020
+
 0.9        01/10/2020
+
 1.1        01/10/2020
+
 2.3        04/25/2020
+
 2.6        08/26/2020
+
 2.7        08/29/2020
+
 3.7        07/11/2021
 
 You can install and play to see by yourself what changed from the past versions.
