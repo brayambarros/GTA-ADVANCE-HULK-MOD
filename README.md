@@ -132,16 +132,6 @@ MORE PHOTOS:
 
 ![weap6](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/3b6c17dc-5c39-452c-92e5-28dc86739343)
 
-![weap5](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/ba480bc9-dadd-47ed-91d1-29baa653627f)
-
-![weap4](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/2ca68d32-3675-4a57-a2f7-b761168bfd75)
-
-![weap3](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/964ae134-82ac-4fe7-9a7b-43c35a716356)
-
-![weap2](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/dff7d15e-cb2d-4592-b536-7047f641a1c4)
-
-![weap1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/a2a56df7-a5b4-4eed-8dfd-d36839eafe2a)
-
 ![wall](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/b8faafe5-ee61-4b79-bf06-4eed4e7dc7fa)
 
 ![tlp1](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/47bcf578-e775-4003-866d-09b6a5db3506)
