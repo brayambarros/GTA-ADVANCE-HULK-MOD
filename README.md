@@ -1,17 +1,24 @@
-# GTA Advance Hulk Mod
-
+# GTA-ADVANCE-HULK-MOD
 The most complete GTA Advance mod!
 
-In 2018, I decided to start a project to modify GTA Advance using hexadecimal codes.
+In 2018 i decided to start a project to modify or to simply try to modify GTA Advance by hexadecimal codes.
 
-After successfully changing Mike's color, I felt more confident in what I could accomplish with different versions of the game. That's when I invited my friend Cassador Eterno to help me organize things, and here we are...
-  _______  _     _  _______  _______  _______ 
- |       || | _ | ||   _   ||       ||       |
- |    ___|| || || ||  |_|  ||_     _||    ___|
- |   | __ |       ||       |  |   |  |   |___ 
- |   ||  ||       ||       |  |   |  |    ___|
- |   |_| ||   _   ||   _   |  |   |  |   |___ 
- |_______||__| |__||__| |__|  |___|  |_______|
-                                             
-ALL VERSIONS INCLUDED
+After a successfully effort to change the color of Mike, i felt more confident of what i should make with the versions of the game.
+From that, i invited my friend Cassador Eterno to help me putting things in order and here we are...
+                                      
+ALL VERSIONS INCLUDED!
+
+VERSION | DATE
+0.1        11/06/2018
+0.5        11/11/2018
+0.7        11/30/2018
+0.8        01/10/2020
+0.9        01/10/2020
+1.1        01/10/2020
+2.3        04/25/2020
+2.6        08/26/2020
+2.7        08/29/2020
+3.7        07/11/2021
+
+You can install and play to see by yourself what changed from the past versions.
 
