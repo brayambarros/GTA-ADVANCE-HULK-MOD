@@ -84,4 +84,76 @@ A simple and freeware hexeditor!
 Tile Layer Pro: https://www.romhacking.net/utilities/108/
 A old graphic tool but still useful!
 
+MORE PHOTOS: 
+
+![correspondentes](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5fcbb68a-f0d1-4bbb-832e-6c661f188ae9)
+
+![cassadormenu](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/63af0f3d-5e87-4c5a-bb44-016257b15794)
+
+![brutalonmenu](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/8e5a1aac-d885-4efc-a672-4778f96675e4)
+
+![allphotos](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5ae866d2-4b19-42f6-9c81-1f7abbda0fb8)
+
+![weinmenu](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/775d3a9e-92cb-48c6-8b2d-8bed3cc5fd01)
+
+![weaphud](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/18a1c28c-56b9-49d9-a388-cb48d058992e)
+
+![weap6](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5adb1517-a144-41b7-a0a9-ed05293d1fbb)
+
+![tlp1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5497f93b-42a7-4c00-a81d-c6c235806dcb)
+
+![pinkmike](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/52e6e984-cf8e-407c-a3eb-d23eae459f3e)
+
+![photo3](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/4e5e41c3-1a08-4ed6-b797-ec8bc8633e25)
+
+![photo2](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/6926c36d-38ef-416b-9ced-f27eacf8a7fb)
+
+![photo1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/65c34a09-1b96-432e-b17b-15380c18d8cb)
+
+![other photos](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/6f989008-3b9d-406a-a14a-56f8092f3621)
+
+![newmenu](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/6cd55f22-60da-49ff-96b4-992362b753fc)
+
+![newlogo](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/47f5b765-c601-4948-8c11-5fb74fe0cec4)
+
+![minimapalmostcomplete](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5787c70e-a666-47d4-8b59-fce4bdb09f4b)
+
+![minimap1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/912aac86-8a1b-4cf6-8a62-9b3d80a43204)
+
+![minimap](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5d04ee08-9d88-4b6a-ad55-be4b82d72b0a)
+
+![menuedit](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/3af8bdcc-6ea4-4df0-b9ed-b1a57317cfcf)
+
+![menucomplete](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/fd9be505-b9e4-42b2-a443-a1d8d78f2636)
+
+![menucharacter](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/c74c26ba-034a-496d-b2ac-2954998daeb7)
+
+![menu1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/e5c1f747-e8c2-431a-a8b5-35e5402458b1)
+
+![mapview1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/08494f5a-359d-42ce-b19b-61f0a0fbd578)
+
+![mappingweap](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/614dee1e-ffd0-42fa-a032-223aa4bf890f)
+
+![hudmapping](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/d31e8764-859f-48bc-9eea-60b375b29f91)
+
+![hudidea](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/df76b661-de37-45de-82b0-883567d5cc76)
+
+![hudalmostcomplete](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/fb723478-747a-41a9-b33b-ad9bdb768da9)
+
+![hud1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/ecf19edd-ebb1-46d2-b65f-f933adcffba7)
+
+![hexcode4](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/2e869936-9535-4840-b2bc-ba062e2683af)
+
+![hexcode3](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/5d0a33ec-5e64-4099-b964-cda189f99a03)
+
+![hexcode1](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/b58a28e5-55cc-4f77-86a5-cfd6b7345c16)
+
+![hexcode](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/9335a19a-e7a8-4b58-bd97-f6be8e2dad84)
+
+![greenweap](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/d9b775e2-2a7b-4ce7-ad3b-632bc9952de5)
+
+![girl](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/05c594dc-9079-4c5b-9fd0-f662d579402d)
+
+![correspondentes2](https://github.com/brayambarros/GTA-ADVANCE-HULK-MOD/assets/92338016/e8072c25-cfec-4543-bc87-3ab7a2a5c55b)
+
 <strong>THIS MOD WAS CREATED BY BRAYAM CAMPOS AND VINICIUS LEITE, WE HAVE NO CONNECTION WITH ROCKSTAR GAMES OR AFFILIATES...</strong>
